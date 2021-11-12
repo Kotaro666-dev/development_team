@@ -26,6 +26,6 @@ $ mv .env.sample .env
 # Get started
 
 ```bash
-$ docker build
+$ docker compose build
 $ docker compose up -d
 ```
